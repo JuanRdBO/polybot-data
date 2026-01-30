@@ -1,0 +1,36 @@
+{"ev":"meta","marketId":"190992","asset":"BTC","slug":"bitcoin-up-or-down-january-30-2am-et","upTokenId":"20988567932638844548034708046186414309041939544622852538071248792178820053213","downTokenId":"48070910126428500365476489703675894648026790484836547281870982331548392498675","expiresAt":"2026-01-30T08:00:00.000Z","startedAt":"2026-01-30T07:00:04.642Z"}
+{"ev":"tick","t":1769756404646,"seq":1,"ub":0.55,"ua":0.56,"db":null,"da":null,"ap":null}
+{"ev":"tick","t":1769756405175,"seq":2,"ub":0.55,"ua":0.6,"db":0.44,"da":0.45,"ap":null}
+{"ev":"tick","t":1769756405713,"seq":3,"ub":0.55,"ua":0.56,"db":0.44,"da":0.45,"ap":null}
+{"ev":"tick","t":1769756406301,"seq":4,"ub":0.46,"ua":0.56,"db":0.44,"da":0.45,"ap":82640.11}
+{"ev":"decision","t":1769756406303,"action":"BUY","side":"UP","qty":4,"price":0.46,"orderType":"GTC","reason":"BUY UP: 4sh @ 46.0¢ GTC@bid (spread=10¢, pos=0+4)"}
+{"ev":"decision","t":1769756406459,"action":"BUY","side":"DOWN","qty":4,"price":0.44,"orderType":"GTC","reason":"BUY DOWN: 4sh @ 44.0¢ GTC@bid (spread=22¢, pos=0+4)"}
+{"ev":"tick","t":1769756406861,"seq":5,"ub":0.55,"ua":0.56,"db":0.26,"da":0.45,"ap":82640.11}
+{"ev":"tick","t":1769756407366,"seq":6,"ub":0.55,"ua":0.87,"db":0.39,"da":0.45,"ap":82660.24}
+{"ev":"decision","t":1769756407448,"action":"BUY","side":"UP","qty":4,"price":0.46,"orderType":"GTC","reason":"BUY UP: 4sh @ 46.0¢ GTC@bid (spread=11¢, pos=0+4)"}
+{"ev":"fill","t":1769756407489,"side":"DOWN","dir":"BUY","qty":4,"price":0.44}
+{"ev":"decision","t":1769756407776,"action":"BUY","side":"UP","qty":3,"price":0.53,"orderType":"GTC","reason":"BUY UP: 3sh @ 53.0¢ GTC@bid (spread=5¢, pos=0+3)"}
+{"ev":"tick","t":1769756407873,"seq":7,"ub":0.52,"ua":0.61,"db":0.1,"da":0.48,"ap":82660.24}
+{"ev":"decision","t":1769756407924,"action":"SELL","side":"DOWN","qty":4,"price":0.48,"orderType":"GTC","reason":"LIMIT_SELL DOWN: 4sh @ 48.0¢ (ask-1¢, +4¢ target)"}
+{"ev":"tick","t":1769756408401,"seq":8,"ub":0.55,"ua":0.58,"db":0.42,"da":0.44,"ap":82663.46}
+{"ev":"tick","t":1769756408902,"seq":9,"ub":0.54,"ua":0.58,"db":0.42,"da":0.45,"ap":82663.46}
+{"ev":"decision","t":1769756409063,"action":"SELL","side":"DOWN","qty":4,"price":0.38,"orderType":"FAK","reason":"SL DOWN 4sh (-6.0¢ after 2s)"}
+{"ev":"fill","t":1769756409064,"side":"DOWN","dir":"SELL","qty":4,"price":0.42}
+{"ev":"tick","t":1769756409420,"seq":10,"ub":0.09,"ua":0.57,"db":0.43,"da":0.47,"ap":82653.1}
+{"ev":"tick","t":1769756409928,"seq":11,"ub":0.55,"ua":0.56,"db":0.44,"da":0.45,"ap":82653.1}
+{"ev":"tick","t":1769756410433,"seq":12,"ub":0.09,"ua":0.56,"db":0.44,"da":0.88,"ap":82645.33}
+{"ev":"tick","t":1769756410946,"seq":13,"ub":0.43,"ua":0.54,"db":0.46,"da":0.57,"ap":82645.33}
+{"ev":"tick","t":1769756411462,"seq":14,"ub":0.04,"ua":0.6,"db":0.44,"da":0.96,"ap":82630.27}
+{"ev":"tick","t":1769756411963,"seq":15,"ub":0.02,"ua":0.57,"db":0.46,"da":0.98,"ap":82630.27}
+{"ev":"tick","t":1769756412530,"seq":16,"ub":0.53,"ua":0.59,"db":0.46,"da":0.47,"ap":82630.27}
+{"ev":"tick","t":1769756413233,"seq":17,"ub":0.02,"ua":0.54,"db":0.46,"da":0.98,"ap":82630.26}
+{"ev":"tick","t":1769756413981,"seq":18,"ub":0.53,"ua":0.56,"db":0.44,"da":0.47,"ap":82630.26}
+{"ev":"decision","t":1769756414201,"action":"BUY","side":"DOWN","qty":4,"price":0.42,"orderType":"GTC","reason":"BUY DOWN: 4sh @ 42.0¢ GTC@bid (spread=5¢, pos=0+4)"}
+{"ev":"tick","t":1769756414577,"seq":19,"ub":0.53,"ua":0.55,"db":0.45,"da":0.49,"ap":82630.26}
+{"ev":"tick","t":1769756415174,"seq":20,"ub":0.52,"ua":0.54,"db":0.46,"da":0.48,"ap":82630.26}
+{"ev":"tick","t":1769756415842,"seq":21,"ub":0.52,"ua":0.55,"db":0.45,"da":0.48,"ap":82630.26}
+{"ev":"tick","t":1769756416393,"seq":22,"ub":0.53,"ua":0.55,"db":0.45,"da":0.49,"ap":82630.27}
+{"ev":"tick","t":1769756416899,"seq":23,"ub":0.52,"ua":0.54,"db":0.46,"da":0.48,"ap":82630.27}
+{"ev":"tick","t":1769756417401,"seq":24,"ub":0.49,"ua":0.61,"db":0.47,"da":0.51,"ap":82617.85}
+{"ev":"tick","t":1769756417952,"seq":25,"ub":0.52,"ua":0.99,"db":0.01,"da":0.99,"ap":82617.85}
+{"ev":"end","t":1769756418052,"pnl":-0.08000000000000007,"tradesUp":0,"tradesDown":1,"tickCount":25}
